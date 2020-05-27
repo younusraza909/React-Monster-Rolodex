@@ -1,0 +1,6 @@
+npm add gh-pages (for github pages)
+than in pakage.json we will add a key value for homepage
+and 2 scripts
+
+
+we will run deploy script from terminal but bydefault predeploy script willl run first
